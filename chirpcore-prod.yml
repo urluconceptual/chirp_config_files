@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: chirp
-
   datasource:
     url: jdbc:postgresql://localhost:5433/chirp
     username: postgres
